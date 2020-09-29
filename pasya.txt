@@ -1,6 +1,6 @@
 my text file
 
-
+Hi preethi how are you my dear
 
 end of the file
 
